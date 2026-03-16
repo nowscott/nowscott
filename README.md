@@ -11,7 +11,7 @@
 <div>&nbsp;</div>
 
 [blog-img]:https://img.shields.io/badge/Website-博客-blue
-[blog-url]:https://blog.nowscott.top/
+[blog-url]:https://nowscott.top/
 [ssp-img]:https://img.shields.io/badge/Sspai-%E5%B0%91%E6%95%B0%E6%B4%BE-DA282A
 [ssp-url]:https://sspai.com/u/nowscott/updates
 [csdn-img]:https://img.shields.io/badge/CSDN-论坛-FC5531
