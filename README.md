@@ -8,7 +8,7 @@
   <a href="https://sspai.com/u/nowscott/updates"><img src="https://img.shields.io/badge/少数派-主页-EF4444?style=flat-square&logo=bookstack&logoColor=white" alt="少数派主页" /></a>
   <a href="https://space.bilibili.com/435359696"><img src="https://img.shields.io/badge/Bilibili-主页-FB7299?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili 主页" /></a>
   <a href="mailto:nowscott@qq.com"><img src="https://img.shields.io/badge/邮箱-联系我-0EA5E9?style=flat-square&logo=tencentqq&logoColor=white" alt="电子邮箱" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nowscott&label=访问量&color=64748B&style=flat-square" alt="主页访问量" />
+  <img src="https://komarev.com/ghpvc/?username=nowscott&label=Profile%20Views&color=64748B&style=flat-square" alt="主页访问量" />
 </div>
 
 ## 关于我
