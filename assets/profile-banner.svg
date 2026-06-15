@@ -1,0 +1,64 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="70" y1="20" x2="1130" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.52" stop-color="#172554"/>
+      <stop offset="1" stop-color="#0C4A6E"/>
+    </linearGradient>
+    <linearGradient id="curve" x1="675" y1="70" x2="1130" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1015 76) rotate(132) scale(327 362)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#E0F2FE" stroke-opacity=".07"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#020617" flood-opacity=".28"/>
+    </filter>
+    <clipPath id="rounded">
+      <rect width="1200" height="320" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="320" fill="url(#background)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <rect width="1200" height="320" fill="url(#glow)"/>
+
+    <circle cx="1135" cy="28" r="130" stroke="#38BDF8" stroke-opacity=".08" stroke-width="38"/>
+    <circle cx="72" cy="302" r="116" stroke="#F59E0B" stroke-opacity=".07" stroke-width="32"/>
+
+    <g opacity=".55">
+      <path d="M690 64V260M660 236H1142" stroke="#BAE6FD" stroke-opacity=".28" stroke-width="1.5"/>
+      <path d="M686 88H694M686 124H694M686 160H694M686 196H694" stroke="#BAE6FD" stroke-opacity=".38" stroke-width="1.5"/>
+      <path d="M754 232V240M818 232V240M882 232V240M946 232V240M1010 232V240M1074 232V240" stroke="#BAE6FD" stroke-opacity=".38" stroke-width="1.5"/>
+    </g>
+
+    <path d="M694 221C735 215 750 170 790 174C833 178 838 226 883 218C928 210 941 111 986 104C1034 96 1053 179 1095 164C1114 157 1128 139 1142 115"
+      stroke="url(#curve)" stroke-width="5" stroke-linecap="round" filter="url(#shadow)"/>
+    <circle cx="790" cy="174" r="5" fill="#FBBF24"/>
+    <circle cx="986" cy="104" r="5" fill="#38BDF8"/>
+
+    <g fill="#E0F2FE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+      <text x="751" y="85" font-size="20" opacity=".5">f(x) = ax² + bx + c</text>
+      <text x="976" y="278" font-size="18" opacity=".35">lim  f(x)</text>
+      <text x="1081" y="69" font-size="18" opacity=".36">π</text>
+      <text x="717" y="284" font-size="17" opacity=".3">∑</text>
+    </g>
+
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif">
+      <rect x="72" y="58" width="116" height="32" rx="16" fill="#F59E0B" fill-opacity=".14" stroke="#FBBF24" stroke-opacity=".4"/>
+      <text x="130" y="80" fill="#FDE68A" font-size="15" font-weight="600" text-anchor="middle" letter-spacing="1">MATH × CODE</text>
+
+      <text x="72" y="153" fill="white" font-size="58" font-weight="750" letter-spacing="-1">NowScott</text>
+      <text x="75" y="199" fill="#BAE6FD" font-size="25" font-weight="500">新东方高中数学教师</text>
+
+      <line x1="75" y1="223" x2="112" y2="223" stroke="#F59E0B" stroke-width="4" stroke-linecap="round"/>
+      <text x="128" y="230" fill="#CBD5E1" font-size="19">白天讲函数，晚上写函数</text>
+    </g>
+  </g>
+</svg>
