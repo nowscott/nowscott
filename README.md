@@ -39,10 +39,10 @@
 
 | 项目 | 简介 |
 | --- | --- |
-| [**Math Card Studio**](https://github.com/nowscott/math-card-studio) | 面向初高中数学的知识卡片制作工具，让公式与知识点更适合整理和分享。 |
+| [**Math Card Studio**](https://github.com/nowscott/MathCardStudio) | 面向初高中数学的知识卡片制作工具，让公式与知识点更适合整理和分享。 |
 | [**Everyday Tech News**](https://github.com/nowscott/EverydayTechNews) | 自动采集、整理并通过邮件发送每日科技新闻的开源项目。 |
 | [**IndWebIndex**](https://github.com/nowscott/IndWebIndex) | 基于 Next.js、Notion API 与 Tailwind CSS 构建的个人索引网站。 |
-| [**Check-in Quality Tool**](https://github.com/nowscott/checkin-quality-tool) | 在浏览器本地处理 Excel 的质检工具，关注隐私与实用性。 |
+| [**Check-in Quality Tool**](https://github.com/nowscott/CheckinQualityTool) | 在浏览器本地处理 Excel 的质检工具，关注隐私与实用性。 |
 
 <details>
 <summary><strong>展开看看我的业余编程足迹</strong></summary>
